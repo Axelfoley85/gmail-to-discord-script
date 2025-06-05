@@ -1,4 +1,5 @@
 # gmail-to-discord-script
+
 Google app script to forward gmails to discord server via webhook
 
 ## 1. create webhook
@@ -7,7 +8,11 @@ Google app script to forward gmails to discord server via webhook
 
 ## 2. create new script on https://script.google.com
 
-copy the contents of the file `sendMailToDiscord.js` into it
+Copy the contents of the file `sendMailToDiscord.js` into it.
+
+Make sure to replace the e-mail with yours!
+
+Along the lines you might have to allow specific permissions.
 
 ## 3. set webhook in script settings
 
